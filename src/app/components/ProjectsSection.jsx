@@ -27,7 +27,7 @@ const projectsData = [
     description: "My first website with ReactJS. Made for a game development studio. Not my most impressive project.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/drpheonixgaming2288/OurWorld-Website",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const projectsData = [
     description: "A social platform for the micronation community. It's an unfinished hobby project. Made in ReactJS.",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/drpheonixgaming2288/mycronations",
   },
 ];
 
