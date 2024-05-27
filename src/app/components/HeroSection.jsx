@@ -46,7 +46,7 @@ const HeroSection = () => {
             With a passion for technology and a diverse skill set, I bring
             innovative solutions to every project. From developing user-friendly
             web applications to managing complex IT infrastructures, I am
-            dedicated to delivering high-quality results. Let's create something
+            dedicated to delivering high-quality results. Let&apos;s create something
             amazing together!
           </p>
           <div>
